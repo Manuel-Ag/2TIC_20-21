@@ -13,10 +13,14 @@ Un programa es una secuencia de instrucciones que especifican cómo ejecutar una
 Las instrucciones (comandos, ordenes) tienen una apariencia diferente en lenguajes de programación diferentes, pero existen algunas funciones básicas que se presentan en casi todo lenguaje:
 
 __entrada:__ Recibir datos del teclado, o un archivo u otro aparato.
+
 __salida:__ Mostrar datos en el monitor o enviar datos a un archivo u otro aparato.
+
 __matemáticas:__ Ejecutar operaciones básicas de matemáticas como la adición y
 la multiplicación.
+
 __operación condicional:__ Probar la veracidad de alguna condición y ejecutar una secuencia de instrucciones apropiada.
+
 __repetición:__ Ejecutar alguna acción repetidas veces, normalmente con alguna variación.
 
 Todos los programas que existen, por complicados que sean, están formulados exclusivamente con tales instrucciones. Así, una manera de describir la programación es: El proceso de romper una tarea en tareas cada vez más pequeñas hasta que estas tareas sean suficientemente simples para ser ejecutadas con una de estas instrucciones simples.
